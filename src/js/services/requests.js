@@ -16,4 +16,5 @@ const getResourse = async (url) => {
   return await res.json();
 };
 
+
 export { postData, getResourse };
